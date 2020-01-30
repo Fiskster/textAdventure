@@ -50,7 +50,7 @@ namespace textAdventure
 
 
                                     ");
-            Console.WriteLine("Welcome to the Hospital.");
+            Console.WriteLine("Welcome to the Hospital!");
             Console.WriteLine("Press enter to begin.");
             Console.ReadLine();
             Console.Clear();
